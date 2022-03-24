@@ -1,0 +1,5 @@
+script
+	;restrict_strat_radar false
+	;surrender_regions horde
+	
+end_script

@@ -1,0 +1,33 @@
+;; JNF 2021-09-23 - Used to define the indexes for the logos referenced in descr_sm_factions
+;; trying to have multiple logos on a single page caused all logos to revert to the one in the
+;; top left after you moved the camera for the first time. I don't understand it either.
+;; so anyway, one logo per page please
+
+icon	ui/faction_icons/romans_julii.tga
+icon	ui/faction_icons/romans_brutii.tga
+icon	ui/faction_icons/romans_scipii.tga
+icon	ui/faction_icons/romans_senate.tga
+icon	ui/faction_icons/macedon.tga
+icon	ui/faction_icons/egypt.tga
+icon	ui/faction_icons/seleucid.tga
+icon	ui/faction_icons/carthage.tga
+icon	ui/faction_icons/parthia.tga
+icon	ui/faction_icons/pontus.tga
+icon	ui/faction_icons/gauls.tga
+icon	ui/faction_icons/germans.tga
+icon	ui/faction_icons/britons.tga
+icon	ui/faction_icons/armenia.tga
+icon	ui/faction_icons/dacia.tga
+icon	ui/faction_icons/greek_cities.tga
+icon	ui/faction_icons/numidia.tga
+icon	ui/faction_icons/scythia.tga
+icon	ui/faction_icons/spain.tga
+icon	ui/faction_icons/thrace.tga
+icon	ui/faction_icons/aegina.tga
+icon	ui/faction_icons/rhodes.tga
+icon	ui/faction_icons/slave.tga
+icon	ui/faction_icons/slave_barbarian.tga
+icon	ui/faction_icons/slave_carthaginian.tga
+icon	ui/faction_icons/slave_greek.tga
+icon	ui/faction_icons/slave_egyptian.tga
+icon	ui/faction_icons/slave_eastern.tga

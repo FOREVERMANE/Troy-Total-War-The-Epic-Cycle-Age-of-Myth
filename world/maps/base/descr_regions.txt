@@ -1,0 +1,2286 @@
+Athens
+	Athens
+	romans_julii
+	Athenians
+	188 94 118
+	none
+	5
+	5
+	pagan 100
+Sparta
+	Sparta
+	romans_julii
+	Athenians
+	172 9 0
+	none
+	5
+	1
+	pagan 100
+Messene
+	Messene
+	romans_julii
+	Athenians
+	64 211 188
+	none
+	5
+	1
+	pagan 100
+Tegea
+	Tegea
+	romans_julii
+	Athenians
+	82 68 154
+	none
+	5
+	1
+	pagan 100
+Orchomenos
+	Orchomenos
+	romans_julii
+	Athenians
+	25 29 45
+	none
+	5
+	1
+	pagan 100
+Lepreum
+	Lepreum
+	romans_julii
+	Athenians
+	129 184 156
+	none
+	5
+	1
+	pagan 100
+Olympia
+	Olympia
+	romans_julii
+	Athenians
+	171 234 209
+	none
+	5
+	1
+	pagan 100
+Elis
+	Elis
+	romans_julii
+	Athenians
+	51 175 106
+	none
+	5
+	1
+	pagan 100
+Argos
+	Argos
+	romans_julii
+	Athenians
+	63 203 11
+	none
+	5
+	1
+	pagan 100
+Mycenae
+	Mycenae
+	romans_julii
+	Athenians
+	106 54 214
+	none
+	5
+	1
+	pagan 100
+Troezen
+	Troezen
+	romans_julii
+	Athenians
+	79 59 37
+	none
+	5
+	1
+	pagan 100
+Aigina
+	Aigina
+	romans_julii
+	Athenians
+	166 106 226
+	none
+	5
+	1
+	pagan 100
+Salamis
+	Salamis
+	romans_julii
+	Athenians
+	76 72 240
+	none
+	5
+	1
+	pagan 100
+Corinth
+	Corinth
+	romans_julii
+	Athenians
+	196 5 103
+	none
+	5
+	1
+	pagan 100
+Sicyon
+	Sicyon
+	romans_julii
+	Athenians
+	107 188 178
+	none
+	5
+	1
+	pagan 100
+Aegae
+	Aegae
+	romans_julii
+	Athenians
+	84 243 12
+	none
+	5
+	1
+	pagan 100
+Aegium
+	Aegium
+	romans_julii
+	Athenians
+	173 37 153
+	none
+	5
+	1
+	pagan 100
+Patrae
+	Patrae
+	romans_julii
+	Athenians
+	225 224 24
+	none
+	5
+	1
+	pagan 100
+Megara
+	Megara
+	romans_julii
+	Athenians
+	205 2 202
+	none
+	5
+	1
+	pagan 100
+Plataeae
+	Plataeae
+	romans_julii
+	Athenians
+	217 37 78
+	none
+	5
+	1
+	pagan 100
+Thebai
+	Thebai
+	romans_julii
+	Athenians
+	122 54 61
+	none
+	5
+	1
+	pagan 100
+Thespiae
+	Thespiae
+	romans_julii
+	Athenians
+	126 230 77
+	none
+	5
+	1
+	pagan 100
+Orchomenus
+	Orchomenus
+	romans_julii
+	Athenians
+	42 117 226
+	none
+	5
+	1
+	pagan 100
+Opus
+	Opus
+	romans_julii
+	Athenians
+	186 14 89
+	none
+	5
+	1
+	pagan 100
+Delphi
+	Delphi
+	romans_julii
+	Athenians
+	239 185 166
+	none
+	5
+	1
+	pagan 100
+Thronion
+	Thronion
+	romans_julii
+	Athenians
+	245 232 140
+	none
+	5
+	1
+	pagan 100
+Trachis
+	Trachis
+	romans_julii
+	Athenians
+	13 166 207
+	none
+	5
+	1
+	pagan 100
+Amphissa
+	Amphissa
+	romans_julii
+	Athenians
+	31 130 93
+	none
+	5
+	1
+	pagan 100
+Naupaktos
+	Naupaktos
+	romans_julii
+	Athenians
+	186 69 184
+	none
+	5
+	1
+	pagan 100
+Aigition
+	Aigition
+	romans_julii
+	Athenians
+	27 152 206
+	none
+	5
+	1
+	pagan 100
+Pleuron
+	Pleuron
+	romans_julii
+	Athenians
+	208 188 192
+	none
+	5
+	1
+	pagan 100
+Oeniadai
+	Oeniadai
+	romans_julii
+	Athenians
+	196 163 195
+	none
+	5
+	1
+	pagan 100
+Thermon
+	Thermon
+	romans_julii
+	Athenians
+	2 67 69
+	none
+	5
+	1
+	pagan 100
+Astakos
+	Astakos
+	romans_julii
+	Athenians
+	7 98 158
+	none
+	5
+	1
+	pagan 100
+Stratos
+	Stratos
+	romans_julii
+	Athenians
+	197 46 183
+	none
+	5
+	1
+	pagan 100
+Sollium
+	Sollium
+	romans_julii
+	Athenians
+	26 81 167
+	none
+	5
+	1
+	pagan 100
+Leukas
+	Leukas
+	romans_julii
+	Athenians
+	74 87 194
+	none
+	5
+	1
+	pagan 100
+Anaktorion
+	Anaktorion
+	romans_julii
+	Athenians
+	60 236 213
+	none
+	5
+	1
+	pagan 100
+Ithaka
+	Ithaka
+	romans_julii
+	Athenians
+	144 74 173
+	none
+	5
+	1
+	pagan 100
+Cranii
+	Cranii
+	romans_julii
+	Athenians
+	57 221 234
+	none
+	5
+	1
+	pagan 100
+Pale
+	Pale
+	romans_julii
+	Athenians
+	167 11 207
+	none
+	5
+	1
+	pagan 100
+Zakynthos
+	Zakynthos
+	romans_julii
+	Athenians
+	245 87 128
+	none
+	5
+	1
+	pagan 100
+Argos_Amphilochia
+	Argos_Amphilochia
+	romans_julii
+	Athenians
+	31 189 93
+	none
+	5
+	1
+	pagan 100
+Lamia
+	Lamia
+	romans_julii
+	Athenians
+	190 225 148
+	none
+	5
+	1
+	pagan 100
+Hypata
+	Hypata
+	romans_julii
+	Athenians
+	25 68 158
+	none
+	5
+	1
+	pagan 100
+Ktimene
+	Ktimene
+	romans_julii
+	Athenians
+	152 40 171
+	none
+	5
+	1
+	pagan 100
+Ambrakia
+	Ambrakia
+	romans_julii
+	Athenians
+	68 183 69
+	none
+	5
+	1
+	pagan 100
+Argithea
+	Argithea
+	romans_julii
+	Athenians
+	126 132 156
+	none
+	5
+	1
+	pagan 100
+Theudoria
+	Theudoria
+	romans_julii
+	Athenians
+	140 37 232
+	none
+	5
+	1
+	pagan 100
+Gitana
+	Gitana
+	romans_julii
+	Athenians
+	69 169 71
+	none
+	5
+	1
+	pagan 100
+Ephyra
+	Ephyra
+	romans_julii
+	Athenians
+	214 205 173
+	none
+	5
+	1
+	pagan 100
+Dodona
+	Dodona
+	romans_julii
+	Athenians
+	124 168 131
+	none
+	5
+	1
+	pagan 100
+Passaron
+	Passaron
+	romans_julii
+	Athenians
+	61 229 93
+	none
+	5
+	1
+	pagan 100
+Phoenike
+	Phoenike
+	romans_julii
+	Athenians
+	24 39 133
+	none
+	5
+	1
+	pagan 100
+Phaloreia
+	Phaloreia
+	romans_julii
+	Athenians
+	166 156 238
+	none
+	5
+	1
+	pagan 100
+Pteleos
+	Pteleos
+	romans_julii
+	Athenians
+	152 72 16
+	none
+	5
+	1
+	pagan 100
+Thebai_Phthiodas
+	Thebai_Phthiodas
+	romans_julii
+	Athenians
+	241 255 65
+	none
+	5
+	1
+	pagan 100
+Pharsalos
+	Pharsalos
+	romans_julii
+	Athenians
+	207 245 177
+	none
+	5
+	1
+	pagan 100
+Iolkos
+	Iolkos
+	romans_julii
+	Athenians
+	200 146 230
+	none
+	5
+	1
+	pagan 100
+Pherae
+	Pherae
+	romans_julii
+	Athenians
+	245 195 168
+	none
+	5
+	1
+	pagan 100
+Crannon
+	Crannon
+	romans_julii
+	Athenians
+	163 116 56
+	none
+	5
+	1
+	pagan 100
+Larisa
+	Larisa
+	romans_julii
+	Athenians
+	141 156 74
+	none
+	5
+	1
+	pagan 100
+Tricca
+	Tricca
+	romans_julii
+	Athenians
+	169 142 28
+	none
+	5
+	1
+	pagan 100
+Connus
+	Connus
+	romans_julii
+	Athenians
+	39 207 12
+	none
+	5
+	1
+	pagan 100
+Dion
+	Dion
+	romans_julii
+	Athenians
+	203 185 96
+	none
+	5
+	1
+	pagan 100
+Pydna
+	Pydna
+	romans_julii
+	Athenians
+	130 55 105
+	none
+	5
+	1
+	pagan 100
+Methone
+	Methone
+	romans_julii
+	Athenians
+	250 186 56
+	none
+	5
+	1
+	pagan 100
+Aigai
+	Aigai
+	romans_julii
+	Athenians
+	60 246 103
+	none
+	5
+	1
+	pagan 100
+Pella
+	Pella
+	romans_julii
+	Athenians
+	178 176 18
+	none
+	5
+	1
+	pagan 100
+Europas
+	Europas
+	romans_julii
+	Athenians
+	105 126 172
+	none
+	5
+	1
+	pagan 100
+Edessa
+	Edessa
+	romans_julii
+	Athenians
+	95 180 141
+	none
+	5
+	1
+	pagan 100
+Idomene
+	Idomene
+	romans_julii
+	Athenians
+	11 18 79
+	none
+	5
+	1
+	pagan 100
+Arnisa
+	Arnisa
+	romans_julii
+	Athenians
+	61 44 3
+	none
+	5
+	1
+	pagan 100
+Aiane
+	Aiane
+	romans_julii
+	Athenians
+	120 88 30
+	none
+	5
+	1
+	pagan 100
+Herakleia
+	Herakleia
+	romans_julii
+	Athenians
+	204 138 130
+	none
+	5
+	1
+	pagan 100
+Argos_Orestikon
+	Argos_Orestikon
+	romans_julii
+	Athenians
+	209 1 126
+	none
+	5
+	1
+	pagan 100
+Therma
+	Therma
+	romans_julii
+	Athenians
+	77 103 113
+	none
+	5
+	1
+	pagan 100
+Olynthos
+	Olynthos
+	romans_julii
+	Athenians
+	125 72 133
+	none
+	5
+	1
+	pagan 100
+Potidaia
+	Potidaia
+	romans_julii
+	Athenians
+	153 51 49
+	none
+	5
+	1
+	pagan 100
+Mende
+	Mende
+	romans_julii
+	Athenians
+	52 57 10
+	none
+	5
+	1
+	pagan 100
+Akanthos
+	Akanthos
+	romans_julii
+	Athenians
+	124 144 7
+	none
+	5
+	1
+	pagan 100
+Torone
+	Torone
+	romans_julii
+	Athenians
+	216 197 127
+	none
+	5
+	1
+	pagan 100
+Stageira
+	Stageira
+	romans_julii
+	Athenians
+	29 234 239
+	none
+	5
+	1
+	pagan 100
+Amphipolis
+	Amphipolis
+	romans_julii
+	Athenians
+	197 153 130
+	none
+	5
+	1
+	pagan 100
+Eriboia
+	Eriboia
+	romans_julii
+	Athenians
+	179 17 216
+	none
+	5
+	1
+	pagan 100
+Megaron
+	Megaron
+	romans_julii
+	Athenians
+	62 164 133
+	none
+	5
+	1
+	pagan 100
+Chimaira
+	Chimaira
+	romans_julii
+	Athenians
+	31 4 238
+	none
+	5
+	1
+	pagan 100
+Apollonia
+	Apollonia
+	romans_julii
+	Athenians
+	174 242 4
+	none
+	5
+	1
+	pagan 100
+Epidamnos
+	Epidamnos
+	romans_julii
+	Athenians
+	215 161 133
+	none
+	5
+	1
+	pagan 100
+Lissus
+	Lissus
+	romans_julii
+	Athenians
+	145 234 113
+	none
+	5
+	1
+	pagan 100
+Orgyssos
+	Orgyssos
+	romans_julii
+	Athenians
+	216 41 24
+	none
+	5
+	1
+	pagan 100
+Antipatreia
+	Antipatreia
+	romans_julii
+	Athenians
+	185 74 251
+	none
+	5
+	1
+	pagan 100
+Lychnidos
+	Lychnidos
+	romans_julii
+	Athenians
+	90 112 73
+	none
+	5
+	1
+	pagan 100
+Stuberra
+	Stuberra
+	romans_julii
+	Athenians
+	96 132 140
+	none
+	5
+	1
+	pagan 100
+Arethousa
+	Arethousa
+	romans_julii
+	Athenians
+	7 68 58
+	none
+	5
+	1
+	pagan 100
+Oisyme
+	Oisyme
+	romans_julii
+	Athenians
+	27 46 194
+	none
+	5
+	1
+	pagan 100
+Sintike
+	Sintike
+	romans_julii
+	Athenians
+	229 224 230
+	none
+	5
+	1
+	pagan 100
+Krenides
+	Krenides
+	romans_julii
+	Athenians
+	110 35 225
+	none
+	5
+	1
+	pagan 100
+Uscana
+	Uscana
+	romans_julii
+	Athenians
+	92 4 175
+	none
+	5
+	1
+	pagan 100
+Pirustae
+	Pirustae
+	romans_julii
+	Athenians
+	246 201 148
+	none
+	5
+	1
+	pagan 100
+Dimale
+	Dimale
+	romans_julii
+	Athenians
+	241 23 225
+	none
+	5
+	1
+	pagan 100
+Sesarethus
+	Sesarethus
+	romans_julii
+	Athenians
+	119 238 161
+	none
+	5
+	1
+	pagan 100
+Stobi
+	Stobi
+	romans_julii
+	Athenians
+	132 2 154
+	none
+	5
+	1
+	pagan 100
+Scupi
+	Scupi
+	romans_julii
+	Athenians
+	65 238 127
+	none
+	5
+	1
+	pagan 100
+Bylazora
+	Bylazora
+	romans_julii
+	Athenians
+	54 250 166
+	none
+	5
+	1
+	pagan 100
+Skodra
+	Skodra
+	romans_julii
+	Athenians
+	240 9 52
+	none
+	5
+	1
+	pagan 100
+Doclea
+	Dolcea
+	romans_julii
+	Athenians
+	171 150 226
+	none
+	5
+	1
+	pagan 100
+Iamphorynna
+	Iamphorynna
+	romans_julii
+	Athenians
+	65 187 61
+	none
+	5
+	1
+	pagan 100
+Skaptopara
+	Skaptopara
+	romans_julii
+	Athenians
+	202 72 177
+	none
+	5
+	1
+	pagan 100
+Pautalia
+	Pautalia
+	romans_julii
+	Athenians
+	59 132 54
+	none
+	5
+	1
+	pagan 100
+Abdera
+	Abdera
+	romans_julii
+	Athenians
+	125 0 130
+	none
+	5
+	1
+	pagan 100
+Maroneia
+	Maroneia
+	romans_julii
+	Athenians
+	194 75 234
+	none
+	5
+	1
+	pagan 100
+Ainos
+	Ainos
+	romans_julii
+	Athenians
+	170 164 188
+	none
+	5
+	1
+	pagan 100
+Cardia
+	Cardia
+	romans_julii
+	Athenians
+	229 229 240
+	none
+	5
+	1
+	pagan 100
+Sestos
+	Sestos
+	romans_julii
+	Athenians
+	140 150 42
+	none
+	5
+	1
+	pagan 100
+Thasos
+	Thasos
+	romans_julii
+	Athenians
+	149 22 49
+	none
+	5
+	1
+	pagan 100
+Korkyra
+	Korkyra
+	romans_julii
+	Athenians
+	182 58 139
+	none
+	5
+	1
+	pagan 100
+Peparethos
+	Peparethos
+	romans_julii
+	Athenians
+	35 163 228
+	none
+	5
+	1
+	pagan 100
+Oreus
+	Oreus
+	romans_julii
+	Athenians
+	192 27 200
+	none
+	5
+	1
+	pagan 100
+Chalcis
+	Chalcis
+	romans_julii
+	Athenians
+	48 221 185
+	none
+	5
+	1
+	pagan 100
+Eretria
+	Eretria
+	romans_julii
+	Athenians
+	206 252 136
+	none
+	5
+	1
+	pagan 100
+Styra
+	Styra
+	romans_julii
+	Athenians
+	179 186 189
+	none
+	5
+	1
+	pagan 100
+Andros
+	Andros
+	romans_julii
+	Athenians
+	184 3 94
+	none
+	5
+	1
+	pagan 100
+Tenos
+	Tenos
+	romans_julii
+	Athenians
+	52 253 208
+	none
+	5
+	1
+	pagan 100
+Skyros
+	Skyros
+	romans_julii
+	Athenians
+	192 52 101
+	none
+	5
+	1
+	pagan 100
+Phoruna
+	Phoruna
+	romans_julii
+	Athenians
+	179 89 23
+	none
+	5
+	1
+	pagan 100
+Agrianes
+	Agrianes
+	romans_julii
+	Athenians
+	144 143 228
+	none
+	5
+	1
+	pagan 100
+Dentheieti
+	Dentheieti
+	romans_julii
+	Athenians
+	127 88 82
+	none
+	5
+	1
+	pagan 100
+Serdika
+	Serdika
+	romans_julii
+	Athenians
+	19 92 48
+	none
+	5
+	1
+	pagan 100
+Sparata
+	Sparata
+	romans_julii
+	Athenians
+	188 222 114
+	none
+	5
+	1
+	pagan 100
+Coelatletae
+	Coelatletae
+	romans_julii
+	Athenians
+	226 7 237
+	none
+	5
+	1
+	pagan 100
+Caeni
+	Caeni
+	romans_julii
+	Athenians
+	158 50 205
+	none
+	5
+	1
+	pagan 100
+Usdicesi
+	Usdicesi
+	romans_julii
+	Athenians
+	203 82 242
+	none
+	5
+	1
+	pagan 100
+Bessi
+	Bessi
+	romans_julii
+	Athenians
+	62 102 193
+	none
+	5
+	1
+	pagan 100
+Thrausi
+	Thrausi
+	romans_julii
+	Athenians
+	110 103 16
+	none
+	5
+	1
+	pagan 100
+Krobyzoi
+	Krobyzoi
+	romans_julii
+	Athenians
+	22 17 33
+	none
+	5
+	1
+	pagan 100
+Uscudama
+	Uscudama
+	romans_julii
+	Athenians
+	172 126 255
+	none
+	5
+	1
+	pagan 100
+Sadama
+	Sadama
+	romans_julii
+	Athenians
+	61 178 121
+	none
+	5
+	1
+	pagan 100
+Bizye
+	Bizye
+	romans_julii
+	Athenians
+	92 32 205
+	none
+	5
+	1
+	pagan 100
+Bisanthe
+	Bisanthe
+	romans_julii
+	Athenians
+	48 19 211
+	none
+	5
+	1
+	pagan 100
+Perinthos
+	Perinthos
+	romans_julii
+	Athenians
+	112 226 231
+	none
+	5
+	1
+	pagan 100
+Selymbria
+	Selymbria
+	romans_julii
+	Athenians
+	254 156 160
+	none
+	5
+	1
+	pagan 100
+Byzantion
+	Byzantion
+	romans_julii
+	Athenians
+	6 30 163
+	none
+	5
+	1
+	pagan 100
+Apsinthi
+	Apsinthi
+	romans_julii
+	Athenians
+	245 246 226
+	none
+	5
+	1
+	pagan 100
+Kypseia
+	Kypseia
+	romans_julii
+	Athenians
+	46 154 232
+	none
+	5
+	1
+	pagan 100
+Corpili
+	Corpili
+	romans_julii
+	Athenians
+	2 45 115
+	none
+	5
+	1
+	pagan 100
+Ulpiana
+	Ulpiana
+	romans_julii
+	Athenians
+	172 228 129
+	none
+	5
+	1
+	pagan 100
+Trialli
+	Trialli
+	romans_julii
+	Athenians
+	231 168 19
+	none
+	5
+	1
+	pagan 100
+Triballi
+	Triballi
+	romans_julii
+	Athenians
+	64 88 208
+	none
+	5
+	1
+	pagan 100
+Athypara
+	Athypara
+	romans_julii
+	Athenians
+	183 70 49
+	none
+	5
+	1
+	pagan 100
+Kabyle
+	Kabyle
+	romans_julii
+	Athenians
+	208 179 157
+	none
+	5
+	1
+	pagan 100
+Mesembria
+	Mesembria
+	romans_julii
+	Athenians
+	27 250 12
+	none
+	5
+	1
+	pagan 100
+Anchialus
+	Anchialus
+	romans_julii
+	Athenians
+	208 61 229
+	none
+	5
+	1
+	pagan 100
+Zaton
+	Zaton
+	romans_julii
+	Athenians
+	104 210 42
+	none
+	5
+	1
+	pagan 100
+Dardanika
+	Dardanika
+	romans_julii
+	Athenians
+	6 106 139
+	none
+	5
+	1
+	pagan 100
+Metalli
+	Metalli
+	romans_julii
+	Athenians
+	94 117 79
+	none
+	5
+	1
+	pagan 100
+Theranda
+	Theranda
+	romans_julii
+	Athenians
+	199 245 100
+	none
+	5
+	1
+	pagan 100
+Scirtari
+	Scirtari
+	romans_julii
+	Athenians
+	35 87 254
+	none
+	5
+	1
+	pagan 100
+Astacus
+	Astacus
+	romans_julii
+	Athenians
+	216 211 61
+	none
+	5
+	1
+	pagan 100
+Kios
+	Kios
+	romans_julii
+	Athenians
+	62 76 99
+	none
+	5
+	1
+	pagan 100
+Daskyleion
+	Daskyleion
+	romans_julii
+	Athenians
+	164 205 77
+	none
+	5
+	1
+	pagan 100
+Kyzikos
+	Kyzikos
+	romans_julii
+	Athenians
+	152 125 255
+	none
+	5
+	1
+	pagan 100
+Parion
+	Parion
+	romans_julii
+	Athenians
+	177 73 176
+	none
+	5
+	1
+	pagan 100
+Lampsakos
+	Lampsakos
+	romans_julii
+	Athenians
+	108 206 29
+	none
+	5
+	1
+	pagan 100
+Abydos
+	Abydos
+	romans_julii
+	Athenians
+	107 226 172
+	none
+	5
+	1
+	pagan 100
+Ilion
+	Ilion
+	romans_julii
+	Athenians
+	126 104 96
+	none
+	5
+	1
+	pagan 100
+Assos
+	Assos
+	romans_julii
+	Athenians
+	212 174 193
+	none
+	5
+	1
+	pagan 100
+Antandros
+	Antandros
+	romans_julii
+	Athenians
+	241 71 14
+	none
+	5
+	1
+	pagan 100
+Mithymna
+	Mithymna
+	romans_julii
+	Athenians
+	233 133 53
+	none
+	5
+	1
+	pagan 100
+Mytilene
+	Mytilene
+	romans_julii
+	Athenians
+	114 215 151
+	none
+	5
+	1
+	pagan 100
+Adramyttion
+	Adramyttion
+	romans_julii
+	Athenians
+	106 151 74
+	none
+	5
+	1
+	pagan 100
+Elaia
+	Elaia
+	romans_julii
+	Athenians
+	111 210 95
+	none
+	5
+	1
+	pagan 100
+Pergamon
+	Pergamon
+	romans_julii
+	Athenians
+	56 214 197
+	none
+	5
+	1
+	pagan 100
+Cyme
+	Cyme
+	romans_julii
+	Athenians
+	181 82 161
+	none
+	5
+	1
+	pagan 100
+Phokaia
+	Phokaia
+	romans_julii
+	Athenians
+	66 99 193
+	none
+	5
+	1
+	pagan 100
+Temnos
+	Temnos
+	romans_julii
+	Athenians
+	54 239 33
+	none
+	5
+	1
+	pagan 100
+Smyrna
+	Smyrna
+	romans_julii
+	Athenians
+	177 165 7
+	none
+	5
+	1
+	pagan 100
+Klazomenai
+	Klazomenai
+	romans_julii
+	Athenians
+	77 0 24
+	none
+	5
+	1
+	pagan 100
+Erythrai
+	Erythrai
+	romans_julii
+	Athenians
+	234 64 246
+	none
+	5
+	1
+	pagan 100
+Colophon
+	Colophon
+	romans_julii
+	Athenians
+	227 231 184
+	none
+	5
+	1
+	pagan 100
+Ephesos
+	Ephesos
+	romans_julii
+	Athenians
+	1 227 207
+	none
+	5
+	1
+	pagan 100
+Priene
+	Priene
+	romans_julii
+	Athenians
+	109 95 75
+	none
+	5
+	1
+	pagan 100
+Myos
+	Myos
+	romans_julii
+	Athenians
+	201 107 201
+	none
+	5
+	1
+	pagan 100
+Miletos
+	Miletos
+	romans_julii
+	Athenians
+	85 61 143
+	none
+	5
+	1
+	pagan 100
+Magnesia
+	Magnesia
+	romans_julii
+	Athenians
+	105 86 139
+	none
+	5
+	1
+	pagan 100
+Iassos
+	Iassos
+	romans_julii
+	Athenians
+	81 198 170
+	none
+	5
+	1
+	pagan 100
+Halikarnassos
+	Halikarnassos
+	romans_julii
+	Athenians
+	19 165 162
+	none
+	5
+	1
+	pagan 100
+Myndos
+	Myndos
+	romans_julii
+	Athenians
+	42 225 246
+	none
+	5
+	1
+	pagan 100
+Mylasa
+	Mylasa
+	romans_julii
+	Athenians
+	249 77 19
+	none
+	5
+	1
+	pagan 100
+Keramos
+	Keramos
+	romans_julii
+	Athenians
+	60 39 20
+	none
+	5
+	1
+	pagan 100
+Knidos
+	Knidos
+	romans_julii
+	Athenians
+	41 229 71
+	none
+	5
+	1
+	pagan 100
+Kaunos
+	Kaunos
+	romans_julii
+	Athenians
+	58 198 41
+	none
+	5
+	1
+	pagan 100
+Kalynda
+	Kalynda
+	romans_julii
+	Athenians
+	236 220 187
+	none
+	5
+	1
+	pagan 100
+Xanthus
+	Xanthus
+	romans_julii
+	Athenians
+	210 177 149
+	none
+	5
+	1
+	pagan 100
+Rhodes
+	Rhodes
+	romans_julii
+	Athenians
+	210 95 15
+	none
+	5
+	1
+	pagan 100
+Kos
+	Kos
+	romans_julii
+	Athenians
+	185 242 25
+	none
+	5
+	1
+	pagan 100
+Samos
+	Samos
+	romans_julii
+	Athenians
+	49 179 26
+	none
+	5
+	1
+	pagan 100
+Chios
+	Chios
+	romans_julii
+	Athenians
+	59 50 84
+	none
+	5
+	1
+	pagan 100
+Oenoe
+	Oenoe
+	romans_julii
+	Athenians
+	138 180 171
+	none
+	5
+	1
+	pagan 100
+Naxos
+	Naxos
+	romans_julii
+	Athenians
+	117 6 38
+	none
+	5
+	1
+	pagan 100
+Paros
+	Paros
+	romans_julii
+	Athenians
+	127 237 72
+	none
+	5
+	1
+	pagan 100
+Ios
+	Ios
+	romans_julii
+	Athenians
+	154 175 177
+	none
+	5
+	1
+	pagan 100
+Melos
+	Melos
+	romans_julii
+	Athenians
+	237 15 237
+	none
+	5
+	1
+	pagan 100
+Thera
+	Thera
+	romans_julii
+	Athenians
+	44 20 69
+	none
+	5
+	1
+	pagan 100
+Karpathos
+	Karpathos
+	romans_julii
+	Athenians
+	185 201 135
+	none
+	5
+	1
+	pagan 100
+Kythera
+	Kythera
+	romans_julii
+	Athenians
+	121 114 240
+	none
+	5
+	1
+	pagan 100
+Delos
+	Delos
+	romans_julii
+	Athenians
+	56 22 0
+	none
+	5
+	1
+	pagan 100
+Ioulis
+	Ioulis
+	romans_julii
+	Athenians
+	111 126 23
+	none
+	5
+	1
+	pagan 100
+Lindos
+	Lindos
+	romans_julii
+	Athenians
+	201 52 16
+	none
+	5
+	1
+	pagan 100
+Kameiros
+	Kameiros
+	romans_julii
+	Athenians
+	160 93 166
+	none
+	5
+	1
+	pagan 100
+Hephaestia
+	Hephaestia
+	romans_julii
+	Athenians
+	190 153 19
+	none
+	5
+	1
+	pagan 100
+Imbros
+	Imbros
+	romans_julii
+	Athenians
+	139 227 198
+	none
+	5
+	1
+	pagan 100
+Samothrace
+	Samothrace
+	romans_julii
+	Athenians
+	37 29 2
+	none
+	5
+	1
+	pagan 100
+Kydonia
+	Kydonia
+	romans_julii
+	Athenians
+	70 124 70
+	none
+	5
+	1
+	pagan 100
+Gortyna
+	Gortyna
+	romans_julii
+	Athenians
+	253 173 41
+	none
+	5
+	1
+	pagan 100
+Oaxos
+	Oaxos
+	romans_julii
+	Athenians
+	74 252 138
+	none
+	5
+	1
+	pagan 100
+Knossos
+	Knossos
+	romans_julii
+	Athenians
+	86 236 132
+	none
+	5
+	1
+	pagan 100
+Lyttos
+	Lyttos
+	romans_julii
+	Athenians
+	206 201 156
+	none
+	5
+	1
+	pagan 100
+Hierapytna
+	Hierapytna
+	romans_julii
+	Athenians
+	81 164 246
+	none
+	5
+	1
+	pagan 100
+Telebehi
+	Telebehi
+	romans_julii
+	Athenians
+	247 40 111
+	none
+	5
+	1
+	pagan 100
+Oinoanda
+	Oinoanda
+	romans_julii
+	Athenians
+	87 241 3
+	none
+	5
+	1
+	pagan 100
+Phaselis
+	Phaselis
+	romans_julii
+	Athenians
+	35 203 224
+	none
+	5
+	1
+	pagan 100
+Perge
+	Perge
+	romans_julii
+	Athenians
+	209 183 179
+	none
+	5
+	1
+	pagan 100
+Keraia
+	Keraia
+	romans_julii
+	Athenians
+	177 255 210
+	none
+	5
+	1
+	pagan 100
+Sagalossos
+	Sagalossos
+	romans_julii
+	Athenians
+	234 108 109
+	none
+	5
+	1
+	pagan 100
+Kibyra
+	Kibyra
+	romans_julii
+	Athenians
+	18 82 233
+	none
+	5
+	1
+	pagan 100
+Celaenae
+	Celaenae
+	romans_julii
+	Athenians
+	88 65 178
+	none
+	5
+	1
+	pagan 100
+Chrysaoris
+	Chrysaoris
+	romans_julii
+	Athenians
+	160 195 91
+	none
+	5
+	1
+	pagan 100
+Alabanda
+	Alabanda
+	romans_julii
+	Athenians
+	238 4 180
+	none
+	5
+	1
+	pagan 100
+Colossae
+	Colossae
+	romans_julii
+	Athenians
+	255 86 112
+	none
+	5
+	1
+	pagan 100
+Nysa
+	Nysa
+	romans_julii
+	Athenians
+	180 172 190
+	none
+	5
+	1
+	pagan 100
+Sardis
+	Sardis
+	romans_julii
+	Athenians
+	74 224 159
+	none
+	5
+	1
+	pagan 100
+Pelopia
+	Pelopia
+	romans_julii
+	Athenians
+	240 116 74
+	none
+	5
+	1
+	pagan 100
+Argiza
+	Argiza
+	romans_julii
+	Athenians
+	206 30 165
+	none
+	5
+	1
+	pagan 100
+Silandos
+	Silandos
+	romans_julii
+	Athenians
+	53 46 202
+	none
+	5
+	1
+	pagan 100
+Achyraos
+	Achyraos
+	romans_julii
+	Athenians
+	65 219 245
+	none
+	5
+	1
+	pagan 100
+Dorylaion
+	Dorylaion
+	romans_julii
+	Athenians
+	4 96 67
+	none
+	5
+	1
+	pagan 100
+Pisidai
+	Pisidai
+	romans_julii
+	Athenians
+	96 137 65
+	none
+	5
+	1
+	pagan 100
+Bithynion
+	Bithynion
+	romans_julii
+	Athenians
+	43 92 108
+	none
+	5
+	1
+	pagan 100
+Gordion
+	Gordion
+	romans_julii
+	Athenians
+	51 73 89
+	none
+	5
+	1
+	pagan 100
+Heracleia
+	Heracleia
+	romans_julii
+	Athenians
+	250 195 27
+	none
+	5
+	1
+	pagan 100
+Chalkedon
+	Chalkedon
+	romans_julii
+	Athenians
+	79 8 131
+	none
+	5
+	1
+	pagan 100
+Ismthia
+	Ismthia
+	romans_julii
+	Athenians
+	42 213 68
+	none
+	5
+	1
+	pagan 100
+Kleonai
+	Kleonai
+	romans_julii
+	Athenians
+	175 214 244
+	none
+	5
+	1
+	pagan 100
+Epidaurus
+	Epidaurus
+	romans_julii
+	Athenians
+	112 248 87
+	none
+	5
+	1
+	pagan 100
+Thyrea
+	Thyrea
+	romans_julii
+	Athenians
+	250 81 79
+	none
+	5
+	1
+	pagan 100
+Prasiae
+	Prasiae
+	romans_julii
+	Athenians
+	248 49 13
+	none
+	5
+	1
+	pagan 100
+Limera
+	Limera
+	romans_julii
+	Athenians
+	242 245 230
+	none
+	5
+	1
+	pagan 100
+Tainaron
+	Tainaron
+	romans_julii
+	Athenians
+	60 231 54
+	none
+	5
+	1
+	pagan 100
+Thuria
+	Thuria
+	romans_julii
+	Athenians
+	67 135 241
+	none
+	5
+	1
+	pagan 100
+Asine
+	Asine
+	romans_julii
+	Athenians
+	234 40 33
+	none
+	5
+	1
+	pagan 100
+Rhamnous
+	Rhamnous
+	romans_julii
+	Athenians
+	59 7 31
+	none
+	5
+	1
+	pagan 100
+Eleusis
+	Eleusis
+	romans_julii
+	Athenians
+	172 193 157
+	none
+	5
+	1
+	pagan 100
+Thorikos
+	Thorikos
+	romans_julii
+	Athenians
+	162 58 169
+	none
+	5
+	1
+	pagan 100
